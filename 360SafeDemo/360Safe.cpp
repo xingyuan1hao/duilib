@@ -3,6 +3,7 @@
 #include <comdef.h>
 #include "ControlEx.h"
 
+//360°²È«ÎÀÊ¿
 class C360SafeFrameWnd : public CWindowWnd, public INotifyUI
 {
 public:
